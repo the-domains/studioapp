@@ -2,6 +2,7 @@ name: studioapp
 favicon: null
 layout_spectrum: 0.7443138025701046
 typography_spectrum: 0.9583752257749438
+title: desenvolvedor de aplicativos
 cta:
   domain: null
   bucket: null
